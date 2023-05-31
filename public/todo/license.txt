@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Check List
+* source:	https://sketchfab.com/3d-models/low-poly-check-list-5cad65147d704e79b047518f2ccd8c1d
+* author:	PTIN_Indie (https://sketchfab.com/PTIN_Indie)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Check List" (https://sketchfab.com/3d-models/low-poly-check-list-5cad65147d704e79b047518f2ccd8c1d) by PTIN_Indie (https://sketchfab.com/PTIN_Indie) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
