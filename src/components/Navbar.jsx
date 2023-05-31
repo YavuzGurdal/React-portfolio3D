@@ -20,9 +20,9 @@ const Links = styled.div`
   gap: 50px;
 `;
 
-const Logo = styled.img`
-  /* height: 50px; */
-`;
+// const Logo = styled.img`
+//   /* height: 50px; */
+// `;
 
 const List = styled.ul`
   display: flex;
@@ -39,10 +39,10 @@ const Icons = styled.div`
   gap: 20px;
 `;
 
-const Icon = styled.img`
-  width: 20px;
-  cursor: pointer;
-`;
+// const Icon = styled.img`
+//   width: 20px;
+//   cursor: pointer;
+// `;
 
 const Button = styled.button`
   width: 100px;

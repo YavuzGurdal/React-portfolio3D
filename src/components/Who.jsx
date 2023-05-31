@@ -61,16 +61,16 @@ const Desc = styled.p`
   color: lightgray;
 `;
 
-const Button = styled.button`
-  background-color: #da4ea2;
-  color: white;
-  font-weight: 500;
-  width: 120px;
-  padding: 10px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-`;
+// const Button = styled.button`
+//   background-color: #da4ea2;
+//   color: white;
+//   font-weight: 500;
+//   width: 120px;
+//   padding: 10px;
+//   border: none;
+//   border-radius: 5px;
+//   cursor: pointer;
+// `;
 
 const TechWrapper = styled.div`
   display: flex;
