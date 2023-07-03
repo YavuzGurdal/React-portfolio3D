@@ -9,7 +9,7 @@ const Stars = (props) => {
   const [sphere] = useState(
     () =>
       // random.inSphere(new Float32Array(5000), { radius: 1.2 })
-      random.inSphere(new Float32Array(6000), { radius: 1.2 })
+      random.inSphere(new Float32Array(3000), { radius: 1.2 })
     // ***** Float32Array(6000) icindeki sayinin 3'e bolunebilen bir sayi olmasi gerekiyor
   );
 
@@ -23,7 +23,8 @@ const Stars = (props) => {
       <Points ref={ref} positions={sphere} stride={3} frustumCulled {...props}>
         <PointMaterial
           transparent
-          color="#f272c8"
+          // color="#f272c8"
+          color="white"
           size={0.002}
           sizeAttenuation={true}
           depthWrite={false}
